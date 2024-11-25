@@ -35,6 +35,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+https://www.loom.com/share/ef9b28e3161444efb6820275b5a3a4bc
+
 ## Notes
 
 Describe any challenges encountered while building the app.
